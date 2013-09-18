@@ -1,0 +1,3 @@
+Prolangs-LAB2
+=============
+lab oppgave 2...
